@@ -1,4 +1,5 @@
 #coding: utf-8
+#Classe Loja_Virtual
 
 class Livro
 	def initialize(autor, isbn = "1", numero_de_paginas, preco)
